@@ -10,7 +10,7 @@ namespace Lab1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Grand Circus Room Detail Generator!");
+            Console.WriteLine("Welcome to the Grand Circus Room Detail Generator! \n");
 
             bool run = true;
             double length;
